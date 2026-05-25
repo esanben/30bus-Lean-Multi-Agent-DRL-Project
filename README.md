@@ -5,6 +5,7 @@ This repository contains the code and data assets for studying **networked micro
 <p align="center">
   <img src="docs/figures/Lean-MADRL_train.png" alt="Lean Multi-Agent Framework for NMG Energy Management" width="92%">
 </p>
+
 ---
 
 ## Project Overview
