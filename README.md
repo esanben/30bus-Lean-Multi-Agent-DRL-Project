@@ -3,9 +3,8 @@
 This repository contains the code and data assets for studying **networked microgrid energy management under renewable generation and load uncertainties**. The project builds on a Lean Multi-Agent Deep Reinforcement Learning (L-MADRL) framework in which multiple agents coordinate energy scheduling decisions across a networked microgrid environment while technical feasibility is enforced through an optimization-based evaluation layer.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2dd56039-7c94-4259-b168-cde0fdbbc47d" alt="L-MADRL framework for networked microgrid energy management" width="900">
+  <img src="docs/figures/Lean-MADRL_train.png" alt="Lean Multi-Agent Framework for NMG Energy Management" width="92%">
 </p>
-
 ---
 
 ## Project Overview
