@@ -229,7 +229,9 @@ For best reproducibility, record:
 
 ## License
 
-No standalone license file is currently listed in the repository root. If the project is intended for reuse, distribution, or academic extension, please add a suitable `LICENSE` file that reflects the desired permissions and institutional requirements.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided that the original copyright and license notice are retained.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -239,11 +241,7 @@ I am **Ayodele Benjamin Esan**. I hold a doctorate in Electrical Engineering wit
 
 Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodele-benjamin-esan-03b948106/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodele-benjamin-esan-ph-d-03b948106)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esanben)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@esanayodele.benjamin)
-
-
-Link to full article online (for the 5 and 14 bus case): https://www.sciencedirect.com/science/article/pii/S0306261926000061?via%3Dihub
-
 
