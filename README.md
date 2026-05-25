@@ -1,4 +1,4 @@
-# 30-Bus Lean Multi-Agent DRL Project
+# 30-Bus Lean Multi-Agent DRL Framework for Networked Microgrid Energy Management Under Uncertainty
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
