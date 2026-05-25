@@ -1,5 +1,7 @@
 # 30-Bus Lean Multi-Agent DRL Project
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Paper DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.apenergy.2026.127354-blue)](https://doi.org/10.1016/j.apenergy.2026.127354)
 [![Research Area](https://img.shields.io/badge/Research-Microgrid%20Energy%20Management-green)](#project-overview)
