@@ -119,28 +119,10 @@ The DRL-based approach is compared with deterministic and stochastic optimizatio
 
 ---
 
-## Framework at a Glance
-
-```mermaid
-flowchart LR
-    A[Input data and parameters] --> B[Renewable and load uncertainty handling]
-    B --> C[Networked microgrid model]
-    C --> D[MDP formulation]
-    D --> E[Multi-agent DQN agents]
-    E --> F[Action guidance or action bounds]
-    F --> G[Single-level optimization layer]
-    G --> H[Feasibility and reward evaluation]
-    H --> E
-    G --> I[Day-ahead schedules]
-    I --> J[Cost, profit, ATC, and exchange analysis]
-```
-
----
-
 ## Key Concepts
 
 | Term | Meaning |
-|---|---|
+|:---|:---|
 | **NMG** | Networked microgrid system containing interconnected microgrids and electricity retailers. |
 | **MG** | Microgrid with local demand, distributed energy resources, storage, and operational constraints. |
 | **ER** | Electricity retailer that participates in energy exchange and market coordination. |
