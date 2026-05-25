@@ -137,7 +137,7 @@ flowchart LR
 
 ## Key Concepts
 
-|Term |Meaning |
+| Term | Meaning |
 |---|---|
 | **NMG** | Networked microgrid system containing interconnected microgrids and electricity retailers. |
 | **MG** | Microgrid with local demand, distributed energy resources, storage, and operational constraints. |
