@@ -94,7 +94,7 @@ The system is modeled as a coordinated network of electricity retailers and micr
 The energy management problem is mapped into a reinforcement learning structure:
 
 | Component | Interpretation in this project |
-|---|---|
+|:---|:---|
 | **State** | Operating condition of the networked microgrid, including uncertain renewable and demand information. |
 | **Action** | DRL-selected control guidance, action bounds, or transformed stochastic parameters used by the optimization layer. |
 | **Reward** | Economic and technical feedback based on cost, profit, feasibility, and network-aware scheduling performance. |
